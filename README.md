@@ -1,3 +1,2 @@
-# ircloud-ydh-web 帮助文档
+这是第一个GitBook！
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
